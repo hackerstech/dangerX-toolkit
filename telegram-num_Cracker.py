@@ -11,4 +11,4 @@ while True:
     os.system(f'xdg-open tg://resolve?phone=91{target}')
 
 
-# you can integrate any files or database
+# you can integrate any files or database works in linux with telegram and integrate other num lists if u wan
