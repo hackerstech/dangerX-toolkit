@@ -57,7 +57,9 @@ pkg install pip
 
 <br>
 </br>
-![hackerX](https://img.shields.io/badge/Made%20by-hackerx-orange)
+!(https://img.shields.io/badge/Made%20by-hackerx-orange)
+
+[![Python](https://shields.io)](https://python.org)
 
 
 ### about us 
