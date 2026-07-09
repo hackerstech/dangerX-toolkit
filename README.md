@@ -52,8 +52,8 @@ pkg install pip
 
 >pip install pyfiglet
 
->cd any folder you want to use
-
+>cd dangerX-toolkit
+ ### use any tool that u wanted to
 
 <br>
 </br>
