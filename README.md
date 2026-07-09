@@ -1,5 +1,5 @@
 # dangerX-toolkit
-tool kit made in my whole life
+tool kit made in my whole life it contains all tools that an osint and encrypter needs
 <p align="right">
 <a href=""><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
@@ -9,7 +9,6 @@ tool kit made in my whole life
 
 <meta name="keywords" content="sms bomber">
 <meta name="description" content="send anon sms  anonymous sms ">
-
 
 
 ![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
