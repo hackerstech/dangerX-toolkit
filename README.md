@@ -8,8 +8,9 @@ tool kit made in my whole life
 <meta name="keywords" content="send anon sms ">
 
 <meta name="keywords" content="sms bomber">
-<meta name="description" content="send anon sms  anonymous sms ">![Ht](https://img.shields.io/badge/Made%20by-SecurityEssentials-orange)
----
+<meta name="description" content="send anon sms  anonymous sms ">
+![Ht](https://img.shields.io/badge/Made%20by-hackerx-orange)
+
 
 
 Command to install tool
