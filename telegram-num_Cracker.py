@@ -11,7 +11,7 @@ while True:
     target=str(rnd)+str(targ)
     print(target)
     time.sleep(1.3)
-    fol.write(target)
+    fol.write(f'{target} \n')
     fol.close()
     os.system(f'xdg-open tg://resolve?phone=91{target}')
 
