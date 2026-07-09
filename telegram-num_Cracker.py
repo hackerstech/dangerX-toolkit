@@ -3,7 +3,7 @@ l=[1,2,3,4,5,6,7,8,9,0]
 fol=open('filex.txt','a')
 os.system('touch filex.txt')
 
-print('starting .... made by hackerZX anon @kxzen_xx')
+print('starting .... made by hackerZX anon ')
 while True:
     tar=random.choices(l,k=9)
     targ=''.join(str(x) for x in tar) 
