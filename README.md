@@ -9,7 +9,10 @@ tool kit made in my whole life
 
 <meta name="keywords" content="sms bomber">
 <meta name="description" content="send anon sms  anonymous sms ">
-![Ht](https://img.shields.io/badge/Made%20by-hackerx-orange)
+
+
+
+![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 
 
@@ -54,7 +57,7 @@ pkg install pip
 
 <br>
 </br>
-
+![](https://img.shields.io/badge/Made%20by-hackerx-orange)
 ### about us 
 Image ![](https://github.com/HackersTech/crispy-bash-utilities/blob/main/IMG_20210814_040338.jpg)
 ---
