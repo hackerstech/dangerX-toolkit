@@ -57,10 +57,7 @@ pkg install pip
 
 <br>
 </br>
-!(https://img.shields.io/badge/Made%20by-hackerx-orange)
-
-[![Python](https://shields.io)](https://python.org)
-
+[!(https://img.shields.io/badge/Made%20by-hackerx-orange)
 
 ### about us 
 Image ![](https://github.com/HackersTech/crispy-bash-utilities/blob/main/IMG_20210814_040338.jpg)
